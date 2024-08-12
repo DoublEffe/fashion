@@ -18,6 +18,6 @@ export class Prodotto implements IProdotto {
   }
 
   assegnaCLiente(cliente: ICliente): void {
-    
+    console.log(`Il prodotto ${this.id} è stato assegnato ad ${cliente.email}`)
   }
 }

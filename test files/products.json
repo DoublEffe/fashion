@@ -1,0 +1,19 @@
+[ 
+  {
+    "vestiti": [
+      {"id": 1, "tipo": "vestito", "taglia": "M", "colore": "blu", "stato": true},
+      {"id": 2, "tipo": "vestito", "taglia": "M", "colore": "blu", "stato": true}
+    ]
+  },
+  {
+    "scarpe": [
+      {"id": 1, "tipo": "scarpe", "taglia": "40", "colore": "rosse", "stato": true}
+    ]
+  },
+  {
+    "costumi": [
+      {"id": 1, "tipo": "costume", "taglia": "x", "colore": "bianco", "stato": true}
+    ]
+  }
+  
+]

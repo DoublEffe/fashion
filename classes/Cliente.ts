@@ -17,6 +17,7 @@ export class Cliente implements ICliente {
 
   ordinaProdotto(prodotto: IProdotto): void {
     if(prodotto.stato) {
+      prodotto.stato = false
       console.log(`Prodotto ${prodotto.tipo} ordinato`)
     }
     else {
