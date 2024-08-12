@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3 align="center">Simple Counter.</h3>
+  <h3 align="center">Fashion.</h3>
 
   <p align="center">
     A counter... thats count or almost.
@@ -11,9 +11,9 @@
     <br />
     <br />
     ·
-    <a href="">Report Bug</a>
+    <a href="https://github.com/DoublEffe/fashion/issues">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="https://github.com/DoublEffe/fashion/issues">Request Feature</a>
   </p>
 </div>
 
