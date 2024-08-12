@@ -7,7 +7,7 @@
   <p align="center">
     A counter... thats count or almost.
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DoublEffe/fashion"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
