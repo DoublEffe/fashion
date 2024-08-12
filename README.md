@@ -67,5 +67,5 @@ and processing products as ordered.
 
 
 <!--variables-->
-[javascript]: https://img.shields.io/badge/Typecript-grey?style=for-the-badge&logo=typescript
-[javascript-url]: https://www.typescriptlang.org/
+[typescript]: https://img.shields.io/badge/Typecript-grey?style=for-the-badge&logo=typescript
+[typescript-url]: https://www.typescriptlang.org/
