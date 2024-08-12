@@ -49,7 +49,7 @@ It show the interfaces and classes of some test client that buies some products 
 
 All project is builded with Typescript.
 
-* [![typescript][typecript]][typescript-url]
+* [![typescript][typescript]][typescript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
